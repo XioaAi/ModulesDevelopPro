@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.emaxcard.pay.module3">
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+        <activity android:name="com.emaxcard.pay.module3.Module3Activity"></activity>
+    </application>
+
+</manifest>
